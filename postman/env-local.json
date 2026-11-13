@@ -1,0 +1,13 @@
+{
+	"id": "7b2e9d14-6a3c-4f58-8e01-2c9d5a7f3b66",
+	"name": "Catalogo-Local",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://localhost:8080",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment"
+}
